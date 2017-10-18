@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">ListView</string>
+  <string name="show_diff_item">显示不同item</string>
+  <string name="data">data</string>
+  <string name="current_item">Current Item</string>
+  <string name="title_index">Title Index</string>
+  <string name="content_index">Content Index</string>
+  <string name="footer_index">Footer Index</string>
+</resources>
