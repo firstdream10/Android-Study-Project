@@ -12,7 +12,7 @@ import java.lang.annotation.Target;
  * @date 17-10-19
  */
 
-@Retention(RetentionPolicy.CLASS)
+@Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.TYPE)
 @Inherited
 public @interface Inheritable {
